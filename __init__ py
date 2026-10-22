@@ -1,0 +1,5 @@
+atlas-system/
+├── App.py
+└── atlas/
+    ├── __init__.py  <-- Make sure this exists!
+    └── ...
